@@ -1,2 +1,5 @@
 # UE4Course_BattleTank
-Project that I'm doing for a Unreal Course
+This repository is a project that I'm doing for a Unreal Course.
+
+
+Right now, it has just been setup.
